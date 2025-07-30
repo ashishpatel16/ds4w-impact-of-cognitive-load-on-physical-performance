@@ -51,7 +51,7 @@ utils/            # Helper scripts to help organize and aggregate csv files
 
 ```bash
 git clone https://github.com/ashishpatel16/ds4w-impact-of-cognitive-load-on-physical-performance.git
-cd cognitive-load-performance
+cd ds4w-impact-of-cognitive-load-on-physical-performance
 pip install -r requirements.txt
 jupyter notebook notebooks/
 ```
